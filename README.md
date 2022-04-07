@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MIrsyad
 - 👀 I’m interested in mobile programming
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me irsyadk4@gmail.com
 
 <!---
